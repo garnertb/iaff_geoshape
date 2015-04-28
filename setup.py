@@ -54,6 +54,6 @@ setup(name='iaff_geoshape',
       license='GPL',
       packages=packages,
       data_files=data_files,
-      install_requires=["requests==2.4.1"],
+      install_requires=["requests==2.6.2"],
       zip_safe=False,
       )
